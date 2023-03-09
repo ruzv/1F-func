@@ -48,4 +48,4 @@ curl "localhost:1234/session?uid=3" \
   -H "authorization: dev"
 ```
 
-# ᶘ ᵒᴥᵒᶅ go nuts
+# `(☞ ﾟヮﾟ)☞` go nuts `☜(ﾟヮﾟ☜)`
